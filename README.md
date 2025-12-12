@@ -5,7 +5,7 @@ The model is trained for 10 epochs on the SemEval-2016 Restaurant dataset.
 
 ---
 
-## 📌 Repository Contents
+##  Repository Contents
 
 - **BERT WITH 10 EPOCHS.py** – main training & evaluation script  
 - **notebooks/** – Jupyter notebooks for experiments  
@@ -15,7 +15,7 @@ The model is trained for 10 epochs on the SemEval-2016 Restaurant dataset.
 
 ---
 
-## 🚀 How to Run the Code
+##  How to Run the Code
 
 ### 1. Install dependencies:
 ```bash
