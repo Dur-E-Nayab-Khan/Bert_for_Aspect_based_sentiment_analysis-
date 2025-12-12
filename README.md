@@ -1,16 +1,22 @@
-# Aspect-Based Sentiment Analysis (ABSA) using BERT
+# Aspect-Based Sentiment Analysis using BERT
 
-This repository contains the full implementation of Aspect-Based Sentiment Analysis (ABSA) using **BERT (bert-base-uncased)** on the **SemEval-2016 Task 5 – Restaurants dataset**.
-
-The project includes:
-- XML parsing of SemEval dataset  
-- Data preprocessing  
-- BERT model fine-tuning  
-- Training, validation, and testing  
-- Evaluation metrics and confusion matrix  
-- Custom sentiment prediction for user-provided sentences  
+This repository contains the implementation of Aspect-Based Sentiment Analysis (ABSA) using the BERT-base-uncased model.  
+The model is trained for 10 epochs on the SemEval-2016 Restaurant dataset.
 
 ---
 
-## 📁 Project Structure
+## 📌 Repository Contents
 
+- **BERT WITH 10 EPOCHS.py** – main training & evaluation script  
+- **notebooks/** – Jupyter notebooks for experiments  
+- **requirements.txt** – python dependencies  
+- **LICENSE** – project license  
+- **CITATION.cff** – citation information  
+
+---
+
+## 🚀 How to Run the Code
+
+### 1. Install dependencies:
+```bash
+pip install -r requirements.txt
